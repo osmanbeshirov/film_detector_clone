@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './MainPage.css';
 import Header from '../../components/Header/Header';
-import SearchBox from '../../components/SearchBox/SearchBox';
+import SearchBox from '../../components/Search/SearchBox';
 import Movies from '../../components/Movies/Movies';
-import Favorites from '../../components/Favorites/Favorites';
+import Favorites from '../../components/Fav/Favorites';
 
 class MainPage extends Component {
     render() { 
